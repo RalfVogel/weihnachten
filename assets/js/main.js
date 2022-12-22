@@ -97,3 +97,53 @@ sr.reveal(".about__data, .celebrate__img", { origin: "right" });
 sr.reveal(".about__img, .celebrate__data", { origin: "left" });
 sr.reveal(".send__card", { interval: 100 });
 sr.reveal(".footer");
+
+/*=============== Deutsch Englisch ===============*/
+
+function updateContent(translations, language) {
+  // Durchlaufe alle Elemente mit dem Attribut "data-i18n"
+  document.querySelectorAll("[data-i18n]").forEach((element) => {
+    // Hole den Schlüssel der Übersetzung aus dem Attribut "data-i18n"
+    const key = element.getAttribute("data-i18n");
+    // Hole die Übersetzung aus dem translations-Objekt
+    const translation = translations[language][key];
+    // Setze den Inhalt des Elements auf die Übersetzung
+    element.innerHTML = translation;
+  });
+}
+
+let currentLanguage = "de";
+
+document.querySelector("#translate-link").addEventListener("click", () => {
+  if (currentLanguage === "de") {
+    updateContent(translations, "en");
+    currentLanguage = "en";
+  } else {
+    updateContent(translations, "de");
+    currentLanguage = "de";
+  }
+});
+
+/*=============== Deutsch Englisch api ===============*/
+const translations = {
+  de: {
+    weihnachten: "Weihnachten",
+    frohe_weihnachten: "Frohe Weihnachten",
+    willkommen: "Willkommen",
+    ueber: "Über",
+    sende: "Sende",
+    feiere: "Feiere",
+    ueber_teilen: "Über das Teilen",
+    ueber_teilen_2: "von Glück",
+  },
+  en: {
+    weihnachten: "Christmas",
+    frohe_weihnachten: "Merry Christmas",
+    willkommen: "Welcome",
+    ueber: "About",
+    sende: "Send",
+    feiere: "Celebrate",
+    ueber_teilen: "About Sharing",
+    ueber_teilen_2: "Happiness",
+  },
+};
