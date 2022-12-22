@@ -2,19 +2,31 @@
 .nav__logo
 Christmas
 
+Weihnachten
+
 .nav__link
-Home
+Welcome
+
+Willkommen
 
 About
 
+Über
+
 Send
 
+Sende
+
 Celebrate
+
+Feiere
 
 
 ========== HOME ==========
 .home__title
 Merry Christmas
+
+Frohe Weihnachten
 
 
 ========== ABOUT ==========
@@ -22,13 +34,22 @@ Merry Christmas
 About Sharing <br>
 Happiness
 
+Über das Teilen <br>
+Von Glück
+
 .about__description
 Sharing these holidays is the best gift you can give, 
 give or share your love with the people you love the most 
 and celebrate with great happiness.
 
+Diese Feiertage zu teilen ist das beste Geschenk, das man machen kann, 
+Schenken oder teilen Sie Ihre Liebe mit den Menschen, die Sie am meisten lieben 
+und feiern Sie mit großer Freude.
+
 .button
 Share Now
+
+Teile Jetzt
 
 
 ========== SEND  ==========
@@ -36,18 +57,40 @@ Share Now
 Send Love This <br>
 Christmas
 
+Verströmen Sie Liebe dieses <br>
+Weihnachten
+
 .send__title .send__description
+
 Spend It With Family
+
+Verbringen Sie es mit der Familie
+
 Sharing with family is the 
 best gift you can give.
 
+Mit der Familie zu teilen ist das 
+beste Geschenk, das man machen kann.
+
 Give Lots Of Love
+
+Viel Liebe schenken
+
 Send a gift and a lot of love 
 to those most in need.
 
+Schicken Sie ein Geschenk und viel Liebe 
+an die Bedürftigsten.
+
 Share Good Wishes
+
+Gute Wünsche teilen
+
 Wish good messages to loved 
 ones this Christmas.
+
+Wünschen Sie Ihren Lieben gute Nachrichten 
+dieses Weihnachten.
 
 
 ========== CELEBRATE  ==========
@@ -55,13 +98,22 @@ ones this Christmas.
 Celebrate With A <br>
 Lot Of Love
 
+Feiern Sie mit <br>
+Viel Liebe
+
 .celebrate__description
 In this holidays, celebrate with much love and peace, 
 offering many blessings to our loved ones, friends 
 and neighbors, wishing them a good Christmas message.
 
+Feiern Sie diese Feiertage mit viel Liebe und Frieden, 
+und bringen ihren Lieben, Freunden und Nachbarn viele Segenswünsche.
+Senden sie ihnen eine gute Weihnachtsbotschaft.
+
 .button
 Celebrate Now
+
+Feiern Sie jetzt
 
 
 ========== FOOTER ==========

@@ -135,6 +135,24 @@ const translations = {
     feiere: "Feiere",
     ueber_teilen: "Über das Teilen",
     ueber_teilen_2: "von Glück",
+    ueber_teilen_3:
+      "Diese Feiertage zu teilen ist das beste Geschenk, das man machen kann,Schenken oder teilen Sie Ihr Liebe mit den Menschen, die Sie am meisten lieben und feiern Sie mit großer Freude.",
+    teile: "Teile Jetzt",
+    senden_1: "Verströmen Sie Liebe dieses",
+    senden_2: "Weihnachten",
+    senden_3: "Verbringen Sie es mit der Familie",
+    senden_4:
+      "Mit der Familie zu teilen ist das beste Geschenk, das man machen kann.",
+    senden_5: "Viel Liebe schenken",
+    senden_6: "Schicken Sie ein Geschenk und viel Liebe an die Bedürftigsten.",
+    senden_7: "Gute Wünsche teilen",
+    senden_8: "Wünschen Sie Ihren Lieben gute Nachrichten dieses Weihnachten.",
+    feiern_1: "Feiern Sie mit",
+    feiern_2: "Viel Liebe",
+    feiern_3:
+      "Feiern Sie diese Feiertage mit viel Liebe und Frieden, und bringen ihren Lieben, Freunden und Nachbarn viele Segenswünsche.Senden sie ihnen eine gute Weihnachtsbotschaft.",
+    feiern_4: "Feiern Sie jetzt",
+    weihnachten_2: "Weihnachten",
   },
   en: {
     weihnachten: "Christmas",
@@ -145,5 +163,22 @@ const translations = {
     feiere: "Celebrate",
     ueber_teilen: "About Sharing",
     ueber_teilen_2: "Happiness",
+    ueber_teilen_3:
+      "Sharing these holidays is the best gift you can give, or share your love with the people you love the most and celebrate with great happiness.",
+    teile: "Share Now",
+    senden_1: "Send Love This",
+    senden_2: "Christmas",
+    senden_3: "Spend It With Family",
+    senden_4: "Sharing with family is the best gift you can give.",
+    senden_5: "Give Lots Of Love",
+    senden_6: "Send a gift and a lot of love to those most in need.",
+    senden_7: "Share Good Wishes",
+    senden_8: "Wish good messages to loved ones this Christmas.",
+    feiern_1: "Celebrate With A",
+    feiern_2: "Lot Of Love",
+    feiern_3:
+      "In this holidays, celebrate with much love and peace, offering many blessings to our loved ones, friends     and neighbors, wishing them a good Christmas message.",
+    feiern_4: "Celebrate Now",
+    weihnachten_2: "Christmas",
   },
 };
